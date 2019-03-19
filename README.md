@@ -3,6 +3,7 @@ cows and bulls game written in c
 Please note that i do not own the game it self, just this C version that i coded myself .
 
 #Explanation : https://en.wikipedia.org/wiki/Bulls_and_Cows
+
 " the players each write a 4-digit secret number. The digits must be all different. Then, in turn, the players try to guess their opponent's number who gives the number of matches. If the matching digits are in their right positions, they are "bulls", if in different positions, they are "cows". Example:
 
     Secret number: 4271

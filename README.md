@@ -1,6 +1,8 @@
 # eltorro
-cows and bulls game written in c
+cows and bulls game written in c.
+
 Please note that i do not own the game it self, just this C version that i coded myself .
+
 
 #Explanation : https://en.wikipedia.org/wiki/Bulls_and_Cows
 
